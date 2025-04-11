@@ -16,8 +16,10 @@
     - On the atomic level there usually is not a sequence without forks and loops.
 
 
-- [Alphafold 3](https://www.nature.com/articles/s41586-024-07487-w) can be thought of as a multi-modal model.
+- [AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w) can be thought of as a multi-modal model.
 - It uses sequences as input and produces point clouds (atom coordinates) as output.
+
+![AlphaFold 3 Pre-processing](https://elanapearl.github.io/assets/img/af3_post/input_prep.png)
 
 ## Conclusions so far
 - Data driven tokenizers improve results for tasks, where "per amino acid reasoning" not required.

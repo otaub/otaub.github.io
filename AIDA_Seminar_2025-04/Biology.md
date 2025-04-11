@@ -1,4 +1,4 @@
-# Biology
+# Bioinformatics
 
 - Genetic sequences 
 - Letters are used to represent molecules like amino acids or nucleic acids.
@@ -6,7 +6,7 @@
 - There can be very long range dependencies.
 - Splitting into "sentences" (e.g. genes, protein domains) is non-trivial.
 
-![text](http://isw3.naist.jp/IS/Bio-Info-Unit/gogroup/study/IMG/dogma.jpg)
+![Picture](http://isw3.naist.jp/IS/Bio-Info-Unit/gogroup/study/IMG/dogma.jpg)
 
 ## ML on Biological Sequences
 
