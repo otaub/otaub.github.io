@@ -4,7 +4,9 @@
 - Letters are used to represent molecules like amino acids or nucleic acids.
 - These monomers assemble into long chains.
 - There can be very long range dependencies.
-- Splitting into "sentences" (e.g. genes) is non-trivial
+- Splitting into "sentences" (e.g. genes, protein domains) is non-trivial.
+
+![text](http://isw3.naist.jp/IS/Bio-Info-Unit/gogroup/study/IMG/dogma.jpg)
 
 ## ML on Biological Sequences
 
