@@ -1,5 +1,5 @@
 # otaub.github.io
-Presentation materials; view at [otaub.github.io](otaub.github.io).
+Presentation materials; view at [otaub.github.io](https://otaub.github.io/).
 
 ## ToC
 ### [Tokenization](otaub.github.io/AIDA_Seminar_2025-04/)
